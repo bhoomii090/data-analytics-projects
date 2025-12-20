@@ -42,7 +42,7 @@ SELECT
 FROM
     movie;
 
--- Similarly, write queries to find the total number of rows in each table
+
 
 select count(*) as director_mapping_row_count
 from director_mapping;
